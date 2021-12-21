@@ -1,0 +1,16 @@
+Account Number,Description,Draft, Addition, disposal, Final,
+1500,Motor vehicles,960845.57,0,0,960845.57
+1510,Office furniture,78421.92,0,0,78421.92
+1520,Office equipment,70788.96,0,0,70788.96
+1530,Computer and Accessory,295415.61,0,0,295415.61
+1540,Specialized Equipment,190740.12,0,0,190740.12
+1550,Other fixed Asset,5340,0,0,5340.0
+
+Total,,,,,1601552.1800000002
+1900,Accum.Depr. Motor Vehicles,540143.81,84140.35,0,624284.16
+1910,Accum.Depr. Office Furniture,60820.98,3520.19,0,64341.17
+1920,Accum.Depr.Office Equipment,43275.42,5502.71,0,48778.13
+1930,Accum.Depr.of Computers & Acce,225677.84,17434.44,0,243112.28
+1940,Accum.Depr.Specialized equip,154802.59,7187.51,0,161990.1
+1950,Accum.Depr.Other fixed Asset,3590.19,349.96,0,3940.15
+Total,,,,,1146445.99Net Book value,,,,,455106.1900000002

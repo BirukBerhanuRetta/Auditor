@@ -1,0 +1,10 @@
+Account Number,Description,Draft, Adjustment, Final
+sdc,czxc,0,0,0
+1100,Account receivable,5888,0,5888
+1110,Vat Receivble,14672.91,0,14672.91
+1140,Surveyours Advance,545,0,545
+1150,Withholding tax receivable,22784.68,0,22784.68
+1300,Prepaid expense,4209.91,0,4209.91
+1610,Telecom Deposit,8000,0,8000
+1600,Investment-Purchase of Bond,10000,0,10000
+TOTAL,,66100.5,0,66100.5
