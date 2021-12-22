@@ -1,7 +1,7 @@
 Account Number,Description,Draft, Adjustment, Final,
-5000-01,Cost of serv-Surveyo salary&Be,709843.62,
-5000-02,Cost of serv-postag stationer.,147579.70,
-5000-03,Costof servic Technical Survey,17870.00,
-5000-04,Cost of serv-Insp&LLoyd's Adm.,3859620.16,
-5000-05,Costof- LabratoryItem(Agri Foo,3476.59,
+5000-01,Cost of serv-Surveyo salary&Be,709843.62,,,,
+5000-02,Cost of serv-postag stationer.,147579.7,,,,
+5000-03,Costof servic Technical Survey,17870,,,,
+5000-04,Cost of serv-Insp&LLoyd's Adm.,3859620.16,,,,
+5000-05,Costof- LabratoryItem(Agri Foo,3476.59,,,,
 TOTAL,,4738390.07

@@ -677,7 +677,8 @@ def balance_sheet():
         ap_tots="0"
     
     #cont'd from 272
-    advance_tax= AR_for_bs[4][1]
+    
+    advance_tax= input("acceptable withholding")
     tobj= open("profit tax.csv", "r", encoding = 'utf8')
     
     # tobj.read()

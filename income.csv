@@ -1,5 +1,5 @@
 Account Number,Description,Draft, Adjustment, Final,
-4000,Inspection Survey income,7585570.95,
-4100,other income,367934.00,
-4200,Saving interest income,157957.20,
+4000,Inspection Survey income,7585570.95,,,,
+4100,other income,367934,,,,
+4200,Saving interest income,157957.2,,,,
 TOTAL,,8111462.15
